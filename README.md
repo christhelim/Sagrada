@@ -34,38 +34,37 @@ February 2023
 ------------------------------------------------------------------------------------------------
 The number inside the brackets represents how many points are awarded for each set completed.
 
-(2) Light Shades			    For every pair of 1 & 2 values, two points are awarded.
-(2) Medium Shades			    For every pair of 3 & 4 values, two points are awarded.
-(2) Deep Shades			      For every pair of 5 & 6 values, two points are awarded.
-(4) Color Variety			    For every complete set of colors (5), four points are awarded.
+(2) Light Shades			For every pair of 1 & 2 values, two points are awarded.
+(2) Medium Shades			For every pair of 3 & 4 values, two points are awarded.
+(2) Deep Shades			For every pair of 5 & 6 values, two points are awarded.
+(4) Color Variety			For every complete set of colors (5), four points are awarded.
 (4) Column Shade Variety	For every column with no repreated values, four points are awarded.
-(5) Shade Variety			    For every complete set of values (1-6), five points are awarded.
+(5) Shade Variety			For every complete set of values (1-6), five points are awarded.
 (5) Column Color Variety	For every column with no repeated colors, five points are awarded.
-(5) Row Shade Variety		  For every row with no repeated values (1-6), five points are awarded.
-(6) Row Color Variety		  For every row with no repeated colors (5), six poitns are awarded.
-(#) Color Diagonals		    For every diagonally-adjacent same-color die, one point is awarded (min. 2)
-					                 (note: there is no color restriction for this objective).
+(5) Row Shade Variety		For every row with no repeated values (1-6), five points are awarded.
+(6) Row Color Variety		For every row with no repeated colors (5), six poitns are awarded.
+(#) Color Diagonals		For every diagonally-adjacent same-color die, one point is awarded (min. 2)
+					(note: there is no color restriction for this objective).
 
 					   		  UI GUIDE:
 ------------------------------------------------------------------------------------------------
 
 Turn 1 of 10:
-Public objectives: (5) Row Shade Variety, (#) Color Diagonals	  //Public objectives; only the highest score yield will count to the final score.		
+Public objectives: (5) Row Shade Variety, (#) Color Diagonals	//Public objectives; only the highest score yield will count to the final score.							
+Private objectives: Blue, Yellow						//Private objectives; there will always be two colors.
 
-Private objectives: Blue, Yellow						                    //Private objectives; there will always be two colors.
-
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |				              //Round track: gray numbers represent unplayed rounds; 
-								  			                                          as dice are placed on it, they will be displayed by their number in their color.
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |				//Round track: gray numbers represent unplayed rounds; 
+								  			  as dice are placed on it, they will be displayed by their number in their color.
     -------------------------------
-    |  R  |     |  B  |     |  Y  |						                  //Player board: color and number restrictions are shown in gray;
-    -------------------------------			  			                  as dice are placed on it, they will be displayed by their number in their color.
+    |  R  |     |  B  |     |  Y  |						//Player board: color and number restrictions are shown in gray;
+    -------------------------------			  			  as dice are placed on it, they will be displayed by their number in their color.
     |  4  |  P  |  3  |  G  |  2  |				
     -------------------------------
     |     |  1  |     |  4  |     |
     -------------------------------
     |     |     |  6  |     |     |
     -------------------------------
-The four dice you rolled are: G1 B3 P4 Y3 				              //Display shows the color and number value of the dice rolled.
+The four dice you rolled are: G1 B3 P4 Y3 				//Display shows the color and number value of the dice rolled.
 
 
 
