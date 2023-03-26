@@ -50,15 +50,16 @@ The number inside the brackets represents how many points are awarded for each s
 ------------------------------------------------------------------------------------------------
 
 Turn 1 of 10:
-Public objectives: (5) Row Shade Variety, (#) Color Diagonals	//Public objectives; only the highest score yield will count to the final score.							
+Public objectives: (5) Row Shade Variety, (#) Color Diagonals	//Public objectives; only the highest score yield will 
+								  count to the final score.							
 Private objectives: Blue, Yellow				//Private objectives; there will always be two colors.
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |			//Round track: gray numbers represent unplayed rounds; 
-								  as dice are placed on it, they will be displayed by their number in their color.
-    -------------------------------
-    |  R  |     |  B  |     |  Y  |				//Player board: color and number restrictions are shown in gray;
-    -------------------------------			  	  as dice are placed on it, they will be displayed by their number in their color.
-    |  4  |  P  |  3  |  G  |  2  |				
+								  as dice are placed on it, they will be displayed by 
+    -------------------------------				  their number in their color.
+    |  R  |     |  B  |     |  Y  |				//Player board: color and number restrictions are shown
+    -------------------------------			  	  in gray; as dice are placed on it, they will be displayed 
+    |  4  |  P  |  3  |  G  |  2  |				  by their number in their color.
     -------------------------------
     |     |  1  |     |  4  |     |
     -------------------------------
