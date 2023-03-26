@@ -65,7 +65,8 @@ Private objectives: Blue, Yellow				//Private objectives; there will always be t
     -------------------------------
     |     |     |  6  |     |     |
     -------------------------------
-The four dice you rolled are: G1 B3 P4 Y3 			//Display shows the color and number value of the dice rolled.
+The four dice you rolled are: G1 B3 P4 Y3 			//Display shows the color and number value of the dice 
+								  rolled.
 
 
 
